@@ -7,5 +7,6 @@
 
 ## 使い方
 - Python 3, [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/), [Selenium](https://selenium-python.readthedocs.io/index.html), [ChromeDriver](https://chromedriver.chromium.org/home)を使用しています。
+- [Google Colab](https://research.google.com/colaboratory/)で動作します。(上記ライブラリをインストールすれば、ローカルでも動作可能です。)
 - **last_article**に最後に読んだ記事のURLをセットしておくと、それ以降の記事URLは取得しません。
 - **exclude_list**に除外するキーワードリストをセットすることで、タイトルに該当キーワードを含む記事を除外します。
