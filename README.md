@@ -1,4 +1,4 @@
-# yahoo-japan-article-crawer
+# yahoo-japan-article-crawler
 
 ## 概要
 [Yahoo! Japan (Sportsnavi)](https://sports.yahoo.co.jp/list/news/ws?genre=ws)の海外サッカーニュース一覧を取得します。
